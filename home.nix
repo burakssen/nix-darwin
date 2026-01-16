@@ -44,6 +44,7 @@ in
     { path = "/Applications/Telegram.app"; }
     { path = "/Applications/Nix Apps/Ghostty.app/"; }
     { path = "${pkgs.vscode}/Applications/Visual Studio Code.app"; }
+    { path = "/System/Applications/System Settings.app"; }
   ];
 
   # Enable Ghostty configuration

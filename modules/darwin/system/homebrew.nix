@@ -15,7 +15,6 @@
     brews = [
       "libomp"
       "pkg-config"
-      "gh"
     ];
 
     casks = [
@@ -32,6 +31,7 @@
       "Microsoft Word" = 462054704;
       "Microsoft Excel" = 462058435;
       "Microsoft PowerPoint" = 462062816;
+      "Xcode" = 497799835;
     };
   };
 }
