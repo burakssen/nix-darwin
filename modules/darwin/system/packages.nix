@@ -25,6 +25,7 @@
     opencode
     typst
     discord
+    gh
 
     # Applications
     firefox
