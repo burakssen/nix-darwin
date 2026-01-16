@@ -23,6 +23,7 @@
       "burakssen/cask/ani-cli"
       "burakssen/cask/artixgamelauncher"
       "burakssen/cask/quitme"
+      "surfshark"
     ];
 
     masApps = {

@@ -10,6 +10,7 @@
     nixfmt
     pre-commit
     cmake
+    fzf
 
     # programming languages
     zig
