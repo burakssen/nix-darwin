@@ -11,6 +11,7 @@
     pre-commit
     cmake
     fzf
+    utm
 
     # programming languages
     zig
