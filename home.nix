@@ -14,7 +14,7 @@ in
     ./modules/home-manager/core/git.nix
     ./modules/home-manager/core/ghostty.nix
     ./modules/home-manager/core/zsh.nix
-    ./modules/home-manager/core/doom-emacs.nix
+    ./modules/home-manager/core/neovim.nix
   ];
 
   home.homeDirectory = "/Users/burakssen";
@@ -53,7 +53,7 @@ in
   # Enable Zsh with Oh My Zsh
   local.zsh.enable = true;
 
-  # Enable Doom Emacs
-  local.doom-emacs.enable = true;
+  # Enable Neovim
+  local.neovim.enable = true;
 
 }
