@@ -28,6 +28,7 @@
     typst
     discord
     gh
+    spotify
 
     # Applications
     firefox

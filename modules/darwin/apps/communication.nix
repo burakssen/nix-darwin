@@ -6,4 +6,8 @@
     zoom-us
     slack
   ];
+  homebrew.masApps = {
+    "WhatsApp" = 310633997;
+    "Telegram" = 747648890;
+  };
 }
