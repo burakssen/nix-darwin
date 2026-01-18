@@ -12,10 +12,13 @@
     cmake
     fzf
     utm
+    sqlc
 
     # programming languages
     zig
     go
+    bun
+    uv
 
     # Development tools
     neovim
